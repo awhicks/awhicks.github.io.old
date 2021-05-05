@@ -4,3 +4,5 @@ URL:
 save_as: index.html
 
 I am a first year PhD student in Computer Science at Virginia Tech.
+
+Check out my [CV]({static}/files/cv.pdf).
