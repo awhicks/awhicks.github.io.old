@@ -4,8 +4,14 @@
 AUTHOR = 'Alex Hicks'
 SITENAME = 'Alex Hicks'
 SITEURL = 'https://awhicks.github.io'
-
+SITETITLE = 'Alex Hicks'
+SITESUBTITLE = 'PhD Student'
+SITEDESCRIPTION = 'Alex Hicks'
 PATH = 'content'
+THEME = '/home/awh4kc/misc/pelican-themes/flex'
+
+BROWSER_COLOR = '#333'
+ROBOTS = 'index, follow'
 
 TIMEZONE = 'America/New_York'
 
@@ -19,16 +25,19 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Pelican', 'https://getpelican.com/'),
-         ('Python.org', 'https://www.python.org/'),
-         ('Jinja2', 'https://palletsprojects.com/p/jinja/'),
-         ('You can modify those links in your config file', '#'),)
+LINKS = (('Pelican', 'https://getpelican.com/'),)
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+SOCIAL = (('GitHub', 'https://github.com/awhicks'),)
 
 DEFAULT_PAGINATION = False
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
+
+THEME_COLOR_AUTO_DETECT_BROWSER_PREFERENCE = True
+THEME_COLOR_ENABLE_USER_OVERRIDE = True
+
+USE_LESS = True
+MAIN_MENU = True
+HOME_HIDE_TAGS = True
