@@ -31,10 +31,10 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Pelican', 'https://getpelican.com/'),)
+# LINKS = (('Pelican', 'https://getpelican.com/'),)
 
 # Social widget
-SOCIAL = (('GitHub', 'https://github.com/awhicks'),
+SOCIAL = (('github', 'https://github.com/awhicks'),
           ('linkedin', 'https://www.linkedin.com/in/awh4kc'),)
 
 DEFAULT_PAGINATION = False
