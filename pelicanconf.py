@@ -5,7 +5,7 @@ import datetime
 
 AUTHOR = 'Alex Hicks'
 SITENAME = 'Alex Hicks'
-SITEURL = 'https://awhicks.github.io'
+SITEURL = ''
 SITETITLE = 'Alex Hicks'
 SITESUBTITLE = 'PhD Student'
 SITEDESCRIPTION = 'Alex Hicks'
@@ -14,9 +14,7 @@ COPYRIGHT_YEAR = datetime.date.today().year
 PATH = 'content'
 THEME = 'themes/flex/'
 
-BROWSER_COLOR = '#333'
 ROBOTS = 'index, follow'
-CUSTOM_CSS = 'static/custom.css'
 DISABLE_URL_HASH = True
 
 TIMEZONE = 'America/New_York'
@@ -48,6 +46,9 @@ THEME_COLOR_ENABLE_USER_OVERRIDE = True
 MAIN_MENU = False
 DISPLAY_PAGES_ON_MENU = True
 PAGES_SORT_ATTRIBUTE = 'order'
+
+PAGE_URL = '{slug}/'
+PAGE_SAVE_AS = PAGE_URL + 'index.html'
 
 
 GITHUB_URL = 'https://github.com/awhicks'

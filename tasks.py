@@ -24,6 +24,11 @@ CONFIG = {
     'settings_publish': 'publishconf.py',
     # Output path. Can be absolute or relative to tasks.py. Default: 'output'
     'deploy_path': SETTINGS['OUTPUT_PATH'],
+    # Remote server configuration
+    'ssh_user': 'awh4kc',
+    'ssh_host': 'rlogin.cs.vt.edu',
+    'ssh_port': '22',
+    'ssh_path': '/home/grads/awh4kc/WWW/people.cs.vt.edu',
     # Github Pages configuration
     'github_pages_branch': 'main',
     'commit_message': "'Publish site on {}'".format(datetime.date.today().isoformat()),
