@@ -6,6 +6,8 @@ Order: 01
 - I have been a Graduate Research Assistant with Dr. Clifford Shaffer since Summer 2020.
 - My work thus far has been upgrading the [OpenDSA](https://opendsa-server.cs.vt.edu/) infrastructure using Docker to provide a more portable development environment as well as reorganizing the production deployment to use containers.
 - I also helped upgrade OpenDSA to Rails v6 as well as providing various bugfixes.
+- My current work involves studying new strategies for automated student feedback.
+- I will be working to containerize the feedback generation and analysis plugins from (Web-CAT)[https://web-cat.cs.vt.edu/Web-CAT/WebObjects/Web-CAT.woa] for use in other automated grading systems.
 
 ### Projects
 
