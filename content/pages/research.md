@@ -15,7 +15,7 @@ Order: 01
 
 ##### Meals on Wheels
 - Our team redesigned the web portal that the Charlottesville branch of Meals on Wheels uses for their volunteer management
-- This project was my senior capstone at UVA where.
+- This project was my senior capstone at UVA.
 - [Portal](https://portal.cvillemeals.org)
 
 ##### Rebu
@@ -27,7 +27,13 @@ Order: 01
 ### Publications
 ##### Workshop Papers
 - **Alexander Hicks**, Kamil Akhuseyinoglu, Cliff Shaffer, and Peter Brusilovsky. ”Live Catalog of Smart Learning Objects for Computer ScienceEducation”.Sixth SPLICE Workshop: Building an Infrastructure for Computer Science Education Research and Practice at Scale, August 2020.
+- [pdf](https://cssplice.github.io/LAS20/proc/SPLICE_2020_LS_paper_7.pdf)
 ### Presentations
 ##### Workshop Presentations
-- Seventh SPLICE Workshop: CS Education Infrastructure for All III: From Ideas to Practiceat 52nd ACM Technical Symposium on Computer Science Education
-- Sixth SPLICE Workshop: Building an Infrastructure for Computer Science EducationResearch and Practice at Scale
+- Seventh SPLICE Workshop: CS Education Infrastructure for All III: From Ideas to Practice at 52nd ACM Technical Symposium on Computer Science Education
+    - Live Catalog of Smart Learning Objects for Computer Science Education
+    - [Slides](https://drive.google.com/file/d/1Re2o1BP0JlBbG94uy5jlnOL0uaKo7YoM/view?usp=sharing)
+    - [Workshop Link](https://pathable.sigcse2021.org/meetings/virtual/tMrka8qiGd2EsTxMW) (requires sign in)
+- Sixth SPLICE Workshop: Building an Infrastructure for Computer Science Education Research and Practice at Scale
+    - Live Catalog of Smart Learning Objects for Computer Science Education
+    - [Slides](https://drive.google.com/file/d/1Re2o1BP0JlBbG94uy5jlnOL0uaKo7YoM/view?usp=sharing)
