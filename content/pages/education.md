@@ -14,4 +14,4 @@ Order: 02
     - B.A. History
 
 - University of Stuttgart - Summer 2017
-    - Study Abroad - Gloabl Technology Practice
+    - Study Abroad - Global Technology Practice
